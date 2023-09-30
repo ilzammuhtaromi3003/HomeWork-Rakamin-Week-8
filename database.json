@@ -1,0 +1,10 @@
+{
+    "development": {
+      "driver": "pg",
+      "host": "localhost",
+      "user": "postgres",
+      "password": "ilzam3003",
+      "database": "HW_8"
+    }
+  }
+  
